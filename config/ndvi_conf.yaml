@@ -1,0 +1,2 @@
+input_path: data/park-grass-10-18-2024_rgn-ortho.tif # path to MAPIR image (as tif)
+output_path: sample_output/NDVI_rasterio.tif # path to output image including name of image (must end with .tif)

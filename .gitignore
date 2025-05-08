@@ -1,0 +1,11 @@
+data/*.tif
+sample_output/
+mapir_env/
+src/__pycache__/
+qgis/
+data/*.xml
+data/
+
+.DS_Store
+src/.DS_Store
+data/.DS_Store
